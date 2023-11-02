@@ -1,4 +1,4 @@
-# MobileCuradoria
+# Mobile Curadoria
 
 Este é o projeto "MobileCuradoria" feito para disciplina Projetão, do Instituto da Computação no semestre 2023.1.
 
