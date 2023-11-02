@@ -4,7 +4,7 @@ Este é o projeto "MobileCuradoria" feito para disciplina Projetão, do Institut
 
 ## Descrição
 
-O aplicativo MobileCuradoria é uma aplicação móvel para visualização e interação dos conteúdos que também disponivel no projeto WEB: https://github.com/nic4cio/pds-project-3
+O aplicativo MobileCuradoria é uma aplicação móvel para visualização e interação dos conteúdos que também estão disponiveis no projeto WEB: https://github.com/nic4cio/pds-project-3
 
 ## Recursos
 
