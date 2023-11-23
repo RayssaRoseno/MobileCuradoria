@@ -149,7 +149,7 @@ class TelaInicial extends StatelessWidget {
               const SizedBox(height: 40.0),
               ListTile(
                 onTap: () {
-                  // Corrija para a rota correta '/solicitar_curadoria'
+        
                   Navigator.pushNamed(context, '/cadastro_curador');
                 },
                 tileColor: const Color(0xFF161F23),
