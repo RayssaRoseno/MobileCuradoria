@@ -27,10 +27,9 @@ class MeuApp extends StatelessWidget {
         '/materias': (context) => PaginaMaterias(),
         '/materias_engenharia': (context) => PaginaMateriasEngenharia(),
         '/cadastro_curador': (context) =>
-            CadastroCurador(), // Adicione esta rota
+            CadastroCurador(), 
         '/logica_aplicada': (context) =>
-            PaginaLogicaAplicada(), // Adicione esta rota para a lógica aplicada
-      },
+            PaginaLogicaAplicada(), 
     );
   }
 }
