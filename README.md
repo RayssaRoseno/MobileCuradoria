@@ -28,10 +28,10 @@ O aplicativo MobileCuradoria é uma aplicação móvel para visualização e int
 
 Rayssa Roseno - rr@ic.ufal.br
 
-Link do projeto: [https://github.com/RayssaRoseno/MobileCuradoria]
+Link do projeto: https://github.com/RayssaRoseno/MobileCuradoria
 
 ## Base 
 
-Link do projeto WEB: [https://github.com/nic4cio/pds-project-3]
+Link do projeto WEB: https://github.com/nic4cio/pds-project-3
 
 
