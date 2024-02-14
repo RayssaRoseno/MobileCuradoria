@@ -1,16 +1,37 @@
-# curadoria
+# Mobile Curadoria
 
-A new Flutter project.
+Este é o projeto "MobileCuradoria" feito para disciplina Projetão, do Instituto da Computação no semestre 2023.1.
 
-## Getting Started
+## Descrição
 
-This project is a starting point for a Flutter application.
+O aplicativo MobileCuradoria é uma aplicação móvel para visualização e interação dos conteúdos que também estão disponiveis no projeto WEB: https://github.com/nic4cio/pds-project-3
 
-A few resources to get you started if this is your first Flutter project:
+## Recursos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Visualização de conteúdos Curados
+- Navegação intuitiva
+- Interface amigável ao usuário
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instalação
+
+1. Clone o repositório: 
+
+- git clone https://github.com/RayssaRoseno/MobileCuradoria.git
+  
+2. Instale as dependências:
+  - npm install
+    
+3. Execute o aplicativo:
+ - flutter run
+
+## Contribuição
+
+Rayssa Roseno - rr@ic.ufal.br
+
+Link do projeto: https://github.com/RayssaRoseno/MobileCuradoria
+
+## Base 
+
+Link do projeto WEB: https://github.com/nic4cio/pds-project-3
+
+
